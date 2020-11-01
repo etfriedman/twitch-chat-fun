@@ -1,5 +1,3 @@
-#Lets have some fun!
-
 from selenium import webdriver
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.common.by import By
@@ -66,10 +64,6 @@ while True:
         site.quit()
         break
     else: print("Please input a valid option...")
+
         
-
-
-
-
-
-
+        
